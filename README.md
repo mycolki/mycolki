@@ -2,11 +2,9 @@
 <br />
 <br />
 <br />
-<br />
   
-![header](https://capsule-render.vercel.app/api?type=soft&fontColor=timeAuto&text=Frontend+Developer&animation=fadeIn&fontSize=58&desc=코드를+디자인하는+개발자+🐸&fontAlignY=46&descAlignY=73&descAlign=66&color=ffffff&height=160&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=soft&fontColor=timeAuto&text=Frontend+Developer&animation=fadeIn&fontSize=36&desc=코드를+디자인하는+개발자+🐸&fontAlignY=46&descAlignY=73&descAlign=66&color=ffffff&width=600&height=120&descSize=18)
 
-<br />
 <br />
 <br />
 <br />
