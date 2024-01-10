@@ -2,8 +2,9 @@
 <br />
 <br />
 <br />
+<br />
   
-![header](https://capsule-render.vercel.app/api?type=soft&fontColor=timeAuto&text=Frontend+Developer&animation=fadeIn&fontSize=66&desc=코드를+디자인하는+개발자+🐸&descAlignY=85&descAlign=65&color=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&fontColor=timeAuto&text=Frontend+Developer&animation=fadeIn&fontSize=62&desc=코드를+디자인하는+개발자+🐸&descAlignY=85&descAlign=65&color=ffffff)
 
 <br />
 <br />
