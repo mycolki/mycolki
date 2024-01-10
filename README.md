@@ -3,7 +3,7 @@
 <br />
 <br />
   
-![header](https://capsule-render.vercel.app/api?type=soft&fontColor=timeAuto&text=Frontend+Developer&animation=fadeIn&fontSize=36&desc=코드를+디자인하는+개발자+🐸&fontAlignY=46&descAlignY=73&descAlign=66&color=ffffff&width=600&height=120&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=cylinder&fontColor=timeAuto&text=Frontend+Developer&animation=fadeIn&fontSize=36&desc=코드를+디자인하는+개발자+🐸&fontAlignY=46&descAlignY=75&descAlign=60&color=ffffff&width=600&height=100&descSize=12)
 
 <br />
 <br />
